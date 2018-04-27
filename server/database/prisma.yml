@@ -13,3 +13,5 @@ datamodel: datamodel.graphql
 # seed your service with initial data based on seed.graphql
 seed:
   import: seed.graphql
+
+cluster: public-grovehealer-229/prisma-us1
